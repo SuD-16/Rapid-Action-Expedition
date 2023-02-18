@@ -81,13 +81,14 @@
     display: none;
   }
   #location_card {
-    flex-direction: column;
     align-items: center;
-    justify-content: center;
-    width: 90%;
-    padding-top: 23rem;
     box-sizing: border-box;
+    flex-direction: column;
+    justify-content: center;
     left: 51%;
+    top: 384%;
+    padding-top: 23rem;
+    width: 90%;
   }
 
   .mobile_map_image{
